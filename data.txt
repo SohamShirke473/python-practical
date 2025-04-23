@@ -1,0 +1,15 @@
+email = thomas.edin@yahoo.com  
+phone = 0123456789  
+dob = 1/1/1999
+
+email = mahesh.k@gmail.com  
+phone = 0123456789  
+dob = 10/01/2000
+
+email = dmeenakshi@project.org  
+phone = 0123456789  
+dob = 1/1/2001
+
+email = demo.demo@gmail.com  
+phone = 0123456789  
+dob = 31/11/1994
